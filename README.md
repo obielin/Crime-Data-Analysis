@@ -15,7 +15,7 @@ To use this notebook, follow these steps:
 
 Clone the repository to your local machine using Git:
 
-git clone [crime data analysis] (https://github.com/obielin/Crime-Data-Analysis)
+git clone [crime data analysis](https://github.com/obielin/Crime-Data-Analysis)
 Ensure you have Jupyter Notebook installed.
 Open the notebook in Jupyter:
 jupyter notebook 'Crime Data Analysis.ipynb'
