@@ -15,10 +15,9 @@ To use this notebook, follow these steps:
 
 Clone the repository to your local machine using Git:
 
-git clone [crime data analysis](https://github.com/obielin/Crime-Data-Analysis)
-Ensure you have Jupyter Notebook installed.
-Open the notebook in Jupyter:
-jupyter notebook 'Crime Data Analysis.ipynb'
+-  git clone [crime data analysis](https://github.com/obielin/Crime-Data-Analysis)
+-  Ensure you have Jupyter Notebook installed.
+-  Open the jupyter notebook 'Crime Data Analysis.ipynb'
 
 ##  Requirements
 This project requires the following Python libraries:
@@ -30,16 +29,16 @@ This project requires the following Python libraries:
 
 
 ##  Usage
-Once you have opened the notebook, you can run each cell to see the analysis step-by-step. Feel free to modify the code to suit your specific data set or analysis requirements.
+-  Once you have opened the notebook, you can run each cell to see the analysis step-by-step. Feel free to modify the code to suit your specific data set or analysis requirements.
 
 ##  Contributing
 Contributions to this project are welcome. Please follow these steps to contribute:
 
-Fork the repository.
-Create a new branch (git checkout -b feature-branch).
-Commit your changes (git commit -am 'Add some feature').
-Push to the branch (git push origin feature-branch).
-Create a new Pull Request.
+-  Fork the repository.
+-  Create a new branch (git checkout -b feature-branch).
+-  Commit your changes (git commit -am 'Add some feature').
+-  Push to the branch (git push origin feature-branch).
+-  Create a new Pull Request.
 
 
 ##  Contact
