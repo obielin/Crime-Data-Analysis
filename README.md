@@ -4,7 +4,7 @@
 This repository contains a Jupyter notebook titled "Crime Data Analysis.ipynb," which focuses on analyzing and visualizing crime data. The aim is to uncover patterns, trends, and insights from the crime data, which could be valuable for law enforcement, policy makers, and researchers interested in criminology and urban studies.
 
 ##  Data Source
-This work aims to create data-driven prediction models to estimate the crime type in Los Angeles. The information utilised was data obtained from Data Lacity which was provided by LAPD [Data Lacity](https://data.lacity.org/Public-Safety/Crime-Data-from-2020-toPresent/2nrs-mtv8} and contains the record number, mocode, description of the crime, date and time at which the crime was reported/occurred, victim age, sex, ethnicity, location where the crime took place, and weapon of crime
+This work aims to create data-driven prediction models to estimate the crime type in Los Angeles. The information utilised was data obtained from Data Lacity which was provided by LAPD [Data Lacity](https://data.lacity.org/Public-Safety/Crime-Data-from-2020-to-Present/2nrs-mtv8/about_data) and contains the record number, mocode, description of the crime, date and time at which the crime was reported/occurred, victim age, sex, ethnicity, location where the crime took place, and weapon of crime
 
 ##  Features
 The notebook includes:
